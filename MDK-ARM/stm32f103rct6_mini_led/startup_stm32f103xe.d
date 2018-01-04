@@ -1,0 +1,1 @@
+stm32f103rct6_mini_led\startup_stm32f103xe.o: startup_stm32f103xe.s
